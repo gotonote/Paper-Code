@@ -1,0 +1,17 @@
+jax
+datasets
+accelerate
+deepspeed
+Levenshtein
+matplotlib
+peft
+pillow
+opencv-python
+ultralytics
+transformers
+qwen-vl-utils
+scikit-learn
+nltk
+wandb
+openai
+vllm

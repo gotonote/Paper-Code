@@ -1,0 +1,4 @@
+torch
+timm==0.6.11
+numpy
+Pillow

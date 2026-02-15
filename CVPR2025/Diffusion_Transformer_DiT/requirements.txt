@@ -1,0 +1,6 @@
+torch
+numpy
+torchvision
+pillow
+einops
+timm

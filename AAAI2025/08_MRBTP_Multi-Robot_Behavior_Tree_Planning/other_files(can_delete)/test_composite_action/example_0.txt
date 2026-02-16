@@ -1,0 +1,28 @@
+[Map]
+ WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .        key-0      .         WALL     ball-1     .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL     ball-0     .         .         .         .         .         .         .        door-0     .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL      .         .         .         .         .         .         .         .         WALL      .         .         .         .         .         WALL
+ WALL     agent-0,1  .         .         .         .         .         .         .         WALL      .         .         .         .        goal-0     WALL
+ WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL      WALL
+
+[Environment Information]
+1. The rooms are numbered sequentially from top to bottom and from left to right as room-0, and so on.
+2. Some doors require keys to open, the locked doors and their corresponding keys are:  door-0: key-0.
+
+[Goal]
+IsNear_ball-0_ball-1
+
+[SubGoals]
+IsOpen_door-0
+IsNear_ball-0_ball-1

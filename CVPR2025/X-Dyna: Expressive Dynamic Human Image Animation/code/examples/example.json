@@ -1,0 +1,26 @@
+[
+    {
+        "image_path": "./assets/reference_image/example_1.png",
+        "caption": "",
+        "target_videos": "./assets/driving_video/example_1_driving_1.mp4",
+        "target_no_head_poses": "./assets/poses/example_1_pose_1.mp4"
+    },
+    {
+        "image_path": "./assets/reference_image/example_2.jpg",
+        "caption": "",
+        "target_videos": "./assets/driving_video/example_2_driving_2.mp4",
+        "target_no_head_poses": "./assets/poses/example_2_pose_2.mp4"
+    },
+    {
+        "image_path": "./assets/reference_image/example_3.png",
+        "caption": "",
+        "target_videos": "./assets/driving_video/example_3_driving_3.mp4",
+        "target_no_head_poses": "./assets/poses/example_3_pose_3.mp4"
+    },
+    {
+        "image_path": "./assets/reference_image/example_4.png",
+        "caption": "",
+        "target_videos": "./assets/driving_video/example_4_driving_4.mp4",
+        "target_no_head_poses": "./assets/poses/example_4_pose_4.mp4"
+    }
+]

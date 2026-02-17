@@ -1,4 +1,0 @@
-from transformers import launch_gradio_demo
-from bbox_brush import BoundingboxBrush
-
-launch_gradio_demo(BoundingboxBrush)

@@ -1,7 +1,0 @@
-{
-    "local_machine":{
-        "repo": "/Path/to/Your/Repo/",
-        "bisenet": "/Path/to/Your/Repo/freecure/face_parsing/checkpoints/79999_iter.pth",
-        "sam": "/Path/to/Your/Repo/freecure/face_parsing/checkpoints/xl1.pt"
-    }
-}

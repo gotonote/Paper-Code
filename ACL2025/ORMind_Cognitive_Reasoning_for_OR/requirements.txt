@@ -1,0 +1,6 @@
+langchain==0.2.7
+langchain-community==0.2.7
+numpy
+tqdm
+pulp==2.8.0
+gurobipy==10.0.2

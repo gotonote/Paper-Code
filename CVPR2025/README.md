@@ -4,7 +4,7 @@
 
 ## 论文列表
 
-### ✅ 已完善 (36 篇)
+### ✅ 已完善 (39 篇)
 
 - [3D_Gaussian_Splatting](./3D_Gaussian_Splatting/) - Code: 1 py | Paper: ✗
 - [Autonomous_Driving](./Autonomous_Driving/) - Code: 1 py | Paper: ✗
@@ -30,11 +30,14 @@
 - [Navigation_World_Models](./Navigation_World_Models/) - Code: 9 py + 1 ipynb | Paper: ✗
 - [Neural_Radiance_Field](./Neural_Radiance_Field/) - Code: 1 py | Paper: ✗
 - [OneDiffusion_Universal_Diffusion](./OneDiffusion_Universal_Diffusion/) - Code: 2 py | Paper: ✗
+- [PAR: Parallelized Autoregressive Visual Generation](./PAR: Parallelized Autoregressive Visual Generation/) - Code: 1 py | Paper: ✗
 - [Scene_Understanding](./Scene_Understanding/) - Code: 1 py | Paper: ✗
 - [SemGeoMo: Semantic-Geometric Human Motion Generation](./SemGeoMo: Semantic-Geometric Human Motion Generation/) - Code: 7 py | Paper: ✗
+- [SemanticDraw_Real_Time_Interactive_Content_Creation](./SemanticDraw_Real_Time_Interactive_Content_Creation/) - Code: 1 py | Paper: ✗
 - [ShowUI](./ShowUI/) - Code: 4 py + 3 ipynb | Paper: ✗
 - [StdGEN: Semantic-Decomposed 3D Character Generation from Single Images](./StdGEN: Semantic-Decomposed 3D Character Generation from Single Images/) - Code: 4 py | Paper: ✗
 - [TeaCache: Timestep Embedding Tells - Video Diffusion Cache](./TeaCache: Timestep Embedding Tells - Video Diffusion Cache/) - Code: 1 py | Paper: ✗
+- [TokenFlow_Unified_Image_Tokenizer](./TokenFlow_Unified_Image_Tokenizer/) - Code: 1 py | Paper: ✗
 - [UniAct: Universal Actions for Enhanced Embodied Foundation Models](./UniAct: Universal Actions for Enhanced Embodied Foundation Models/) - Code: 2 py | Paper: ✗
 - [VGGT](./VGGT/) - Code: 4 py | Paper: ✗
 - [VGGT_Visual_Geometry_Grounded_Transformer](./VGGT_Visual_Geometry_Grounded_Transformer/) - Code: 4 py | Paper: ✗
@@ -43,15 +46,8 @@
 - [Visual_Reasoning](./Visual_Reasoning/) - Code: 1 py | Paper: ✗
 - [X-Dyna: Expressive Dynamic Human Image Animation](./X-Dyna: Expressive Dynamic Human Image Animation/) - Code: 1 py | Paper: ✗
 
-### ⚠️ 待完善 (3 篇)
-
-- [PAR: Parallelized Autoregressive Visual Generation](./PAR: Parallelized Autoregressive Visual Generation/)
-- [SemanticDraw_Real_Time_Interactive_Content_Creation](./SemanticDraw_Real_Time_Interactive_Content_Creation/)
-- [TokenFlow_Unified_Image_Tokenizer](./TokenFlow_Unified_Image_Tokenizer/)
-
 ## 统计
 
 - 论文总数: 39
-- 有代码: 36 (92%)
-- 待完善: 3 (8%)
-
+- 有代码: 39 (100%)
+- 待完善: 0 (0%)

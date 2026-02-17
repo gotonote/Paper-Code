@@ -22,3 +22,11 @@ class PARModel(nn.Module):
         emb = self.embedding(tokens)
         out = self.decoder(emb)
         return self.head(out)
+    
+    def generate_parallel(self, batch_size, max_len):
+        generated = torch.zeros(batch_size, max_len, dtype=torch.long, device=next(self.parameters()).device)
+        for i in range(max_len):
+            logits = self.forward(generated[:, :i+1])
+            next_token = logits[:, -1].argmax(dim=-1)
+            generated[:, i] = next_token
+        return generated

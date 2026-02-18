@@ -25,12 +25,9 @@
 
 ```
 3D_Gaussian_Splatting/
-├── gaussian/
-│   ├── gaussian_model.py  # 高斯模型
-│   ├── renderer.py         # 渲染器
-│   └── rasterization.py   # 光栅化
-├── train.py
-├── render.py
+├── gaussian_model.py   # 高斯模型（核心类定义）
+├── trainer.py          # 训练器
+├── requirements.txt    # 依赖
 └── README.md
 ```
 

@@ -36,14 +36,11 @@ FoundationStereo是一个用于立体深度估计的基础模型，核心创新�
 
 ```
 FoundationStereo/
-├── core/                     # 核心模型代码
-├── depth_anything/          # Depth Anything特征
-├── dinov2/                  # DINOv2特征
-├── scripts/                 # 训练推理脚本
-├── docker/                  # Docker配置
-├── Utils.py                 # 工具函数
-├── environment.yml          # 环境配置
-└── README_en.md            # 英文原版README
+├── models.py              # 核心模型代码
+├── Utils.py               # 工具函数
+├── environment.yml        # 环境配置
+├── requirements.txt
+└── README.md
 ```
 
 ## 快速开始

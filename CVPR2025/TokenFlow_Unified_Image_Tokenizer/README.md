@@ -30,12 +30,10 @@ TokenFlow的核心技术：
 
 ```
 TokenFlow_Unified_Image_Tokenizer/
-├── tokenflow/                  # 核心分词器代码
-├── t2i/                        # 文本到图像生成
-├── llava/                      # 多模态理解模型
-├── scripts/                    # 推理脚本
-├── requirements.txt            # 依赖
-└── GETTING_STARTED.md          # 使用指南
+├── model.py              # 核心分词器代码
+├── requirements.txt
+├── GETTING_STARTED.md
+└── README.md
 ```
 
 ## 运行方式

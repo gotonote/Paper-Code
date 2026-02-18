@@ -17,8 +17,8 @@
 
 ```
 Visual_Reasoning/
-├── model/
-│   ├── reasoning.py
-│   └── vision_language.py
+├── model.py           # 模型定义
+├── trainer.py         # 训练器
+├── requirements.txt
 └── README.md
 ```

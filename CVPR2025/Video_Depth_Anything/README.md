@@ -36,15 +36,12 @@ Video Depth Anything基于Depth Anything V2，核心创新在于：
 
 ```
 Video_Depth_Anything/
-├── video_depth_anything/     # 核心模型代码
-├── loss/                    # 训练损失函数
-├── utils/                   # 工具函数
-├── benchmark/               # 基准测试
-├── assets/                  # 资源文件
-├── run.py                   # 推理脚本
-├── run_streaming.py         # 流式推理
-├── app.py                   # Gradio App
-└── README_en.md            # 英文原版README
+├── models.py              # 核心模型代码
+├── run.py                 # 推理脚本
+├── run_streaming.py       # 流式推理
+├── app.py                 # Gradio App
+├── requirements.txt
+└── README.md
 ```
 
 ## 快速开始

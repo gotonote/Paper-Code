@@ -36,16 +36,13 @@ ShowUI是一种用于GUI智能体和计算机操作的端到端视觉-语言-动
 
 ```
 ShowUI/
-├── model/                    # 模型定义
-├── main/                     # 主程序
-├── data/                     # 数据处理
-├── utils/                    # 工具函数
-├── prepare/                 # 数据准备
-├── examples/                 # 示例
-├── train.py                  # 训练脚本
+├── api.py                  # API接口
+├── app.py                  # Gradio应用
+├── train.py                # 训练脚本
 ├── inference_vllm.ipynb     # VLLM推理notebook
-├── test.ipynb               # 测试notebook
-└── README_en.md            # 英文原版README
+├── test.ipynb              # 测试notebook
+├── requirements.txt
+└── README.md
 ```
 
 ## 快速开始

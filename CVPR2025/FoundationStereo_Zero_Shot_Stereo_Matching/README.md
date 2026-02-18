@@ -36,20 +36,10 @@ FoundationStereo的核心创新包括：
 
 ```
 FoundationStereo_Zero_Shot_Stereo_Matching/
-├── core/                       # 核心模型代码
-│   ├── foundation_stereo.py    # 主模型
-│   ├── feature_extractor.py    # 特征提取
-│   ├── cost_volume.py          # 代价体积构建
-│   └── ...
-├── depth_anything/             # 深度估计模块
-├── dinov2/                    # DINOv2特征提取
-├── scripts/                    # 推理脚本
-│   ├── run_demo.py             # 演示脚本
-│   ├── run_demo_tensorrt.py    # TensorRT推理
-│   └── ...
-├── docker/                     # Docker配置
-├── assets/                     # 示例图像
-├── environment.yml             # 环境配置
+├── models.py              # 核心模型代码
+├── Utils.py               # 工具函数
+├── environment.yml        # 环境配置
+├── requirements.txt
 └── README.md
 ```
 

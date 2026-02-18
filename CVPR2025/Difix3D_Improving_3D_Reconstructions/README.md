@@ -33,10 +33,9 @@ Difix3D+的核心技术：
 
 ```
 Difix3D_Improving_3D_Reconstructions/
-├── pipeline_difix.py           # 扩散管道
-├── models/                     # 模型定义
-├── assets/                     # 示例资源
-├── requirements.txt            # 依赖
+├── model.py              # 模型定义
+├── trainer.py            # 训练器
+├── requirements.txt
 └── README.md
 ```
 

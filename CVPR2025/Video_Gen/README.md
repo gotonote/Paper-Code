@@ -25,12 +25,9 @@
 
 ```
 Video_Gen/
-├── model/
-│   ├── video_vae.py      # 3D VAE 模型
-│   ├── diffusion.py      # 扩散模型
-│   └── attention.py       # 时空注意力
-├── train.py
-├── sample.py
+├── model.py          # 模型定义（包含VAE、扩散、注意力）
+├── trainer.py        # 训练器
+├── requirements.txt
 └── README.md
 ```
 

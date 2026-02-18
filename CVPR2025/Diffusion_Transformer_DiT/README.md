@@ -26,13 +26,9 @@ DiT 将扩散模型的骨干网络从 UNet 替换为 Vision Transformer (ViT)。
 ## 代码结构说明
 
 ```
-DiT/
-├── models/
-│   ├── dit.py           # DiT 模型主体
-│   ├── patch_embed.py   # Patch 嵌入层
-│   └── blocks.py        # Transformer 块
-├── train.py             # 训练脚本
-├── sample.py            # 采样脚本
+Diffusion_Transformer_DiT/
+├── dit.py             # DiT 模型主体
+├── trainer.py         # 训练脚本
 ├── requirements.txt
 └── README.md
 ```

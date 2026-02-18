@@ -25,11 +25,8 @@
 
 ```
 Embodied_AI_Robot/
-├── model/
-│   ├── policy.py          # 策略网络
-│   ├── vision_encoder.py  # 视觉编码
-│   └── action_head.py     # 动作头
-├── train.py
-├── inference.py
+├── policy.py          # 策略网络
+├── trainer.py         # 训练器
+├── requirements.txt
 └── README.md
 ```

@@ -35,21 +35,13 @@ VGGT基于Transformer架构，利用视觉基础模型（DINOv2）的特征作�
 
 ```
 VGGT_Visual_Geometry_Grounded_Transformer/
-├── vggt/                      # 核心模型代码
-│   ├── models/                # 模型定义
-│   │   └── vggt.py            # VGGT模型
-│   ├── utils/                 # 工具函数
-│   │   ├── load_fn.py         # 图像加载和预处理
-│   │   ├── pose_enc.py        # 相机参数编码
-│   │   ├── geometry.py        # 几何计算
-│   │   └── ...
-│   └── ...
-├── demo_gradio.py             # Gradio交互式演示
-├── demo_viser.py              # Viser 3D可视化
-├── demo_colmap.py             # COLMAP格式导出
-├── training/                  # 训练代码
-├── examples/                  # 示例代码
-└── requirements.txt           # 依赖
+├── models.py              # 核心模型代码
+├── visual_util.py         # 可视化工具
+├── demo_gradio.py         # Gradio交互式演示
+├── demo_viser.py          # Viser 3D可视化
+├── demo_colmap.py         # COLMAP格式导出
+├── requirements.txt
+└── README.md
 ```
 
 ## 运行方式

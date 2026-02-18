@@ -32,12 +32,10 @@ GaussianCity的核心技术包括：
 
 ```
 GaussianCity_Unbounded_3D_City_Generation/
-├── gaussiancity/               # 核心模型代码
-├── extensions/                 # CUDA扩展
-├── scripts/                     # 推理脚本
-│   └── inference.py            # 推理入口
-├── output/                     # 模型权重
-├── requirements.txt            # 依赖
+├── models.py              # 核心模型代码
+├── config.py              # 配置文件
+├── run.py                 # 推理脚本
+├── requirements.txt
 └── README.md
 ```
 

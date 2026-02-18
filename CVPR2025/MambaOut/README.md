@@ -33,13 +33,11 @@ MambaOut探索了Mamba架构在视觉任务中的必要性：
 
 ```
 MambaOut/
-├── models/                   # 模型定义
-├── scripts/                  # 训练脚本
-├── gradio_demo/             # Gradio演示
-├── train.py                  # 训练代码
-├── validate.py               # 验证代码
-├── utils.py                  # 工具函数
-└── README_en.md            # 英文原版README
+├── train.py              # 训练代码
+├── validate.py           # 验证代码
+├── utils.py              # 工具函数
+├── requirements.txt
+└── README.md
 ```
 
 ## 快速开始

@@ -25,14 +25,9 @@
 
 ```
 Multimodal_LLM/
-├── model/
-│   ├── llava.py           # 主模型
-│   ├── vision_encoder.py  # 视觉编码器
-│   └── projector.py       # 投影层
-├── data/
-│   └── dataset.py         # 数据集处理
-├── train.py
-├── inference.py
+├── llava.py           # 主模型
+├── trainer.py         # 训练器
+├── requirements.txt
 └── README.md
 ```
 

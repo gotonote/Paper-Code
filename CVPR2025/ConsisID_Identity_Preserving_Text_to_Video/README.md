@@ -29,10 +29,13 @@ ConsisID的核心技术：
 
 ```
 ConsisID_Identity_Preserving_Text_to_Video/
-├── models/                     # 模型定义
-├── scripts/                    # 推理脚本
-├── requirements.txt           # 依赖
-└── ...
+├── app.py                 # Gradio应用
+├── infer.py               # 推理脚本
+├── train.py               # 训练脚本
+├── train_single_rank.sh   # 单卡训练脚本
+├── train_multi_rank.sh    # 多卡训练脚本
+├── requirements.txt
+└── README.md
 ```
 
 ## 运行方式

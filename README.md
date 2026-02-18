@@ -17,13 +17,13 @@
 
 ```
 Paper-Code/
-├── CVPR2025/      # CVPR 2025 论文代码 (40篇)
-├── AAAI2025/      # AAAI 2025 论文代码 (11篇)
-├── IJCAI2025/     # IJCAI 2025 论文代码 (11篇)
-├── NeurIPS2025/   # NeurIPS 2025 论文代码 (11篇)
-├── ICML2025/      # ICML 2025 论文代码 (11篇)
-├── ICLR2025/      # ICLR 2025 论文代码 (11篇)
-└── ACL2025/       # ACL 2025 论文代码 (11篇)
+├── CVPR/2025/      # CVPR 2025 论文代码 (40篇)
+├── AAAI/2025/      # AAAI 2025 论文代码 (11篇)
+├── IJCAI/2025/     # IJCAI 2025 论文代码 (11篇)
+├── NeurIPS/2025/   # NeurIPS 2025 论文代码 (11篇)
+├── ICML/2025/      # ICML 2025 论文代码 (11篇)
+├── ICLR/2025/      # ICLR 2025 论文代码 (11篇)
+└── ACL/2025/       # ACL 2025 论文代码 (11篇)
 ```
 
 ## 📊 论文统计
@@ -65,7 +65,7 @@ Paper-Code/
 git clone https://github.com/gotonote/Paper-Code.git
 
 # 进入目录
-cd Paper-Code/CVPR2025/3D_Gaussian_Splatting
+cd Paper-Code/CVPR/2025/3D_Gaussian_Splatting
 
 # 查看论文解读
 cat README.md

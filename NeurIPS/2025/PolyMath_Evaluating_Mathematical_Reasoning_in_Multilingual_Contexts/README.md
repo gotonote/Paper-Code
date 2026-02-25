@@ -29,10 +29,10 @@
 
 ```
 code/
-├── data/            # 数据集
-├── evaluation/     # 评估代码
-├── scripts/        # 运行脚本
-└── README.md       # 原始 README
+ data/            # 数据集
+ evaluation/     # 评估代码
+ scripts/        # 运行脚本
+ README.md       # 原始 README
 ```
 
 ## 使用方法

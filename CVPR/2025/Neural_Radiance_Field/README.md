@@ -18,8 +18,8 @@
 
 ```
 Neural_Radiance_Field/
-├── nerf.py           # NeRF 模型
-├── trainer.py        # 训练器
-├── requirements.txt
-└── README.md
+ nerf.py           # NeRF 模型
+ trainer.py        # 训练器
+ requirements.txt
+ README.md
 ```

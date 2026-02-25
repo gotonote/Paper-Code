@@ -51,39 +51,39 @@ Design custom room layouts in test_gridworld/custom_env.py using functions like 
 
 ```
 mabtpg
-│
-├── agent - Configuration for intelligent agents.
-├── algo - Training and decision-making algorithms.
-│   └── llm_client - Modules for large language model integration.
-├── btp - Behavior tree planning algorithms.
-│   └── base
-│       └── planning_agent
-│       └── planning_condition
-│   ├── DMR - Planning algorithm interface.
-│   ├── mabtp - Multi-robot behavior tree planning algorithms.
-│   ├── maobtp - Priority-queue-based multi-robot behavior tree planning algorithms.
-│   └── captp - Subtree pre-planning algorithms.
-├── behavior_tree - Components of the behavior tree engine.
-├── envs - Environments for agent interaction.
-│   ├── base - Foundational elements for environments.
-│   ├── gridenv - Grid-based testing environment.
-│   │   └── minigrid - Warehouse Management scenario.
-│   ├── virtualhome - Home Service scenario.
-│   └── numericenv - Numerical simulation platform.
-└── utils - Supporting functions and utilities.
+
+ agent - Configuration for intelligent agents.
+ algo - Training and decision-making algorithms.
+    llm_client - Modules for large language model integration.
+ btp - Behavior tree planning algorithms.
+    base
+        planning_agent
+        planning_condition
+    DMR - Planning algorithm interface.
+    mabtp - Multi-robot behavior tree planning algorithms.
+    maobtp - Priority-queue-based multi-robot behavior tree planning algorithms.
+    captp - Subtree pre-planning algorithms.
+ behavior_tree - Components of the behavior tree engine.
+ envs - Environments for agent interaction.
+    base - Foundational elements for environments.
+    gridenv - Grid-based testing environment.
+       minigrid - Warehouse Management scenario.
+    virtualhome - Home Service scenario.
+    numericenv - Numerical simulation platform.
+ utils - Supporting functions and utilities.
 
 simulators - Platforms for realistic training environments.
 
 test_experiment - Modules for testing behavior trees planning, LLMs, and scene interactions.
-│
-├── exp1_robustness_parallelism
-│   ├── code
-│   └── results
-└── exp2_subtree_llms
-    ├── code
-    │   ├── data
-    │   └─ llm_data
-    └── results
+
+ exp1_robustness_parallelism
+    code
+    results
+ exp2_subtree_llms
+     code
+        data
+        llm_data
+     results
 ```
 
 

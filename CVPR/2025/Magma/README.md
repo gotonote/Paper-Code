@@ -35,10 +35,10 @@ Magma是一个多模态AI智能体基础模型，核心创新在于：
 
 ```
 Magma/
-├── train.py              # 训练脚本
-├── trainer.py           # 训练器
-├── requirements.txt
-└── README.md
+ train.py              # 训练脚本
+ trainer.py           # 训练器
+ requirements.txt
+ README.md
 ```
 
 ## 快速开始

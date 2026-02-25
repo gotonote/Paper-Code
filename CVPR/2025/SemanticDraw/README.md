@@ -17,7 +17,7 @@
 
 ```
 SemanticDraw/
-├── diffusion.py       # 扩散模型
-├── editor.py          # 编辑器
-└── requirements.txt
+ diffusion.py       # 扩散模型
+ editor.py          # 编辑器
+ requirements.txt
 ```

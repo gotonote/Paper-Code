@@ -23,12 +23,12 @@
 
 ```
 OmniDepth/
-├── encoder.py      # 多模态编码器
-├── attention.py    # 跨模态注意力
-├── decoder.py      # 统一解码器
-├── train.py        # 训练脚本
-├── requirements.txt
-└── README.md
+ encoder.py      # 多模态编码器
+ attention.py    # 跨模态注意力
+ decoder.py      # 统一解码器
+ train.py        # 训练脚本
+ requirements.txt
+ README.md
 ```
 
 ## 关键代码讲解

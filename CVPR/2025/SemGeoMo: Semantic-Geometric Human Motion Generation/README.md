@@ -73,20 +73,20 @@ motion_dict[name] = {
 The project expects the following directory structure:
 ```
 SemGeoMo/
-├── data_pkl/          # Preprocessed .pkl files
-  ├── omomo_fps15/
-├── pretrain/          # Pretrained models
-├── bps/
-├── glove/
-├── body_models/
-  ├──smpl
-├──smpl_all_models/
-  ├──smplx
-├── Long_CLIP/
-├── pytorch3d/
-├── exp/               # Training outputs
-├── semgeomo/  
-  ├── t2m/       
+ data_pkl/          # Preprocessed .pkl files
+   omomo_fps15/
+ pretrain/          # Pretrained models
+ bps/
+ glove/
+ body_models/
+  smpl
+smpl_all_models/
+  smplx
+ Long_CLIP/
+ pytorch3d/
+ exp/               # Training outputs
+ semgeomo/  
+   t2m/       
 ```
 
 ## Training

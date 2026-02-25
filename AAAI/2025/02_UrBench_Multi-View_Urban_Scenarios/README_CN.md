@@ -29,10 +29,10 @@ UrBench 是一个专门用于评估大语言多模态模型（LMMs）在城市�
 
 ```
 02_UrBench_Multi-View_Urban_Scenarios/
-├── assets/           # 评估结果图表
-├── urbench/         # 核心代码
-├── README.md        # 英文原版说明
-└── setup.py         # 安装脚本
+ assets/           # 评估结果图表
+ urbench/         # 核心代码
+ README.md        # 英文原版说明
+ setup.py         # 安装脚本
 ```
 
 ## 使用方法

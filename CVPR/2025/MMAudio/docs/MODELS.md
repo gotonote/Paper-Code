@@ -23,28 +23,28 @@ The expected directory structure (full):
 
 ```bash
 MMAudio
-├── ext_weights
-│   ├── best_netG.pt
-│   ├── synchformer_state_dict.pth
-│   ├── v1-16.pth
-│   └── v1-44.pth
-├── weights
-│   ├── mmaudio_small_16k.pth
-│   ├── mmaudio_small_44k.pth
-│   ├── mmaudio_medium_44k.pth
-│   ├── mmaudio_large_44k.pth
-│   └── mmaudio_large_44k_v2.pth
-└── ...
+ ext_weights
+    best_netG.pt
+    synchformer_state_dict.pth
+    v1-16.pth
+    v1-44.pth
+ weights
+    mmaudio_small_16k.pth
+    mmaudio_small_44k.pth
+    mmaudio_medium_44k.pth
+    mmaudio_large_44k.pth
+    mmaudio_large_44k_v2.pth
+ ...
 ```
 
 The expected directory structure (minimal, for the recommended model only):
 
 ```bash
 MMAudio
-├── ext_weights
-│   ├── synchformer_state_dict.pth
-│   └── v1-44.pth
-├── weights
-│   └── mmaudio_large_44k_v2.pth
-└── ...
+ ext_weights
+    synchformer_state_dict.pth
+    v1-44.pth
+ weights
+    mmaudio_large_44k_v2.pth
+ ...
 ```

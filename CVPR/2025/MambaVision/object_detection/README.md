@@ -173,12 +173,12 @@ unzip annotations_trainval2017.zip
 
 ```
 data/coco/
-├── annotations/
-│   ├── instances_train2017.json
-│   ├── instances_val2017.json
-│   └── panoptic_train2017.json  # optional for panoptic segmentation
-├── train2017/
-└── val2017/
+ annotations/
+    instances_train2017.json
+    instances_val2017.json
+    panoptic_train2017.json  # optional for panoptic segmentation
+ train2017/
+ val2017/
 ```
 
 3. **Configure your MMDetection config**

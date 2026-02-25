@@ -34,10 +34,10 @@
 
 ```
 mm-argfallacy/
-├── configs/                  # 配置文件
-├── scripts/                 # 训练和预测脚本
-├── requirements.txt         # 依赖
-└── README.md               # 英文原版README
+ configs/                  # 配置文件
+ scripts/                 # 训练和预测脚本
+ requirements.txt         # 依赖
+ README.md               # 英文原版README
 ```
 
 ## 快速开始

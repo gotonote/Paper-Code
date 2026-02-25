@@ -20,23 +20,23 @@ unzip annotations_trainval2014.zip
 Then, the directory should be structured as follows:
 ```
 COCO/
-├── annotations/
-│   ├── captions_train2014.json
-│   ├── captions_val2014.json
-│   ├── instances_train2014.json
-│   ├── instances_val2014.json
-│   ├── karpathy_test_coco_ids.txt
-│   ├── karpathy_val_coco_ids.txt
-│   ├── person_keypoints_train2014.json
-│   ├── person_keypoints_val2014.json
-│   ├── pos_stats_test.json
-│   └── pos_stats_train.json
-├── train2014/
-│   ├── COCO_train2014_000000000009.jpg
-│   └── ...
-└── val2014/
-    ├── COCO_val2014_000000581929.jpg
-    └── ...
+ annotations/
+    captions_train2014.json
+    captions_val2014.json
+    instances_train2014.json
+    instances_val2014.json
+    karpathy_test_coco_ids.txt
+    karpathy_val_coco_ids.txt
+    person_keypoints_train2014.json
+    person_keypoints_val2014.json
+    pos_stats_test.json
+    pos_stats_train.json
+ train2014/
+    COCO_train2014_000000000009.jpg
+    ...
+ val2014/
+     COCO_val2014_000000581929.jpg
+     ...
 ```
 ---
 ### MSRVTT
@@ -49,15 +49,15 @@ cd dataset_processing/data/MSR-VTT
 Then, the directory should be structured as follows:
 ```
 MSR-VTT/
-├── retrieval_task/
-│   ├── pos_stats_test.json
-│   ├── pos_stats_train.json
-│   ├── test_jsfusion.json
-│   └── train.json
-└── videos/
-    ├── video0.mp4
-    ├── ...
-    └── video9999.mp4
+ retrieval_task/
+    pos_stats_test.json
+    pos_stats_train.json
+    test_jsfusion.json
+    train.json
+ videos/
+     video0.mp4
+     ...
+     video9999.mp4
 ```
 ---
 ### AudioCaps
@@ -71,14 +71,14 @@ cd dataset_processing/data/AudioCaps
 Then, the directory should be structured as follows:
 ```
 AudioCaps/
-├── retrieval/
-│   ├── pos_stats_test.json
-│   ├── pos_stats_train.json
-│   ├── retrieval_test.json
-│   └── retrieval_train.json
-└── audio/
-    ├── __0Fp4K-2Ew_60.wav
-    └── ...
+ retrieval/
+    pos_stats_test.json
+    pos_stats_train.json
+    retrieval_test.json
+    retrieval_train.json
+ audio/
+     __0Fp4K-2Ew_60.wav
+     ...
 ```
 ---
 ### (Optional) Generating `pos_stats_*.json` Files

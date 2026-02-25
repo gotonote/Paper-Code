@@ -29,10 +29,10 @@
 
 ```
 code/
-├── discovery/        # 发现算法核心
-├── experiments/     # 实验设计
-├── analysis/        # 结果分析
-└── README.md        # 原始 README
+ discovery/        # 发现算法核心
+ experiments/     # 实验设计
+ analysis/        # 结果分析
+ README.md        # 原始 README
 ```
 
 ## 使用方法

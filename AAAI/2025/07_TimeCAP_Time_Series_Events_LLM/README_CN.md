@@ -33,11 +33,11 @@ TimeCAP 是一种利用大语言模型智能体进行时序事件上下文增强
 
 ```
 07_TimeCAP_Time_Series_Events_LLM/
-├── dataset/          # 数据集目录
-│   ├── weather_*/    # 天气数据
-│   ├── finance_*/   # 金融数据
-│   └── healthcare_*/ # 医疗数据
-└── README.md         # 英文原版说明
+ dataset/          # 数据集目录
+    weather_*/    # 天气数据
+    finance_*/   # 金融数据
+    healthcare_*/ # 医疗数据
+ README.md         # 英文原版说明
 ```
 
 ## 使用方法

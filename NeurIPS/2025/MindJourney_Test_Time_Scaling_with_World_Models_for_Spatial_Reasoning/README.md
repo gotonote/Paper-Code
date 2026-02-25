@@ -29,10 +29,10 @@
 
 ```
 code/
-├── world_model/    # 世界模型
-├── reasoning/     # 推理模块
-├── evaluation/     # 评估代码
-└── README.md       # 原始 README
+ world_model/    # 世界模型
+ reasoning/     # 推理模块
+ evaluation/     # 评估代码
+ README.md       # 原始 README
 ```
 
 ## 使用方法

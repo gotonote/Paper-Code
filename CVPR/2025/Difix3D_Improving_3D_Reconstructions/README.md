@@ -33,10 +33,10 @@ Difix3D+的核心技术：
 
 ```
 Difix3D_Improving_3D_Reconstructions/
-├── model.py              # 模型定义
-├── trainer.py            # 训练器
-├── requirements.txt
-└── README.md
+ model.py              # 模型定义
+ trainer.py            # 训练器
+ requirements.txt
+ README.md
 ```
 
 ## 运行方式

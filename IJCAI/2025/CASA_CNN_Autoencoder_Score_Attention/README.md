@@ -43,15 +43,15 @@ bash ./scripts/long_term_forecast/ECL_script/CASA.sh
 
 ```
 CASA/
-├── data_provider/      # 数据提供器
-├── exp/               # 实验代码
-├── figures/           # 图表
-├── layers/            # 网络层
-├── models/            # 模型定义
-├── scripts/           # 训练脚本
-├── utils/             # 工具函数
-├── run.py             # 主运行脚本
-└── requirements.txt    # 依赖
+ data_provider/      # 数据提供器
+ exp/               # 实验代码
+ figures/           # 图表
+ layers/            # 网络层
+ models/            # 模型定义
+ scripts/           # 训练脚本
+ utils/             # 工具函数
+ run.py             # 主运行脚本
+ requirements.txt    # 依赖
 ```
 
 ---

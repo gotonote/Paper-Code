@@ -28,11 +28,11 @@
 
 ```
 03_MQSPN_Multi-Grained_Query-Guided_Set_Prediction/
-├── assets/           # 模型架构图
-├── configs/          # 配置文件
-├── data/             # 数据目录
-├── run.py           # 训练/评估入口
-└── README.md        # 英文原版说明
+ assets/           # 模型架构图
+ configs/          # 配置文件
+ data/             # 数据目录
+ run.py           # 训练/评估入口
+ README.md        # 英文原版说明
 ```
 
 ## 使用方法

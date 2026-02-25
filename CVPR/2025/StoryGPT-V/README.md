@@ -23,10 +23,10 @@ StoryGPT-V结合LLM的推理能力和图像生成模型，创建具有叙事一�
 
 ```
 StoryGPT-V/
-├── llm/             # LLM接口
-├── diffusion/       # 扩散模型
-├── story.py         # 故事生成
-└── requirements.txt
+ llm/             # LLM接口
+ diffusion/       # 扩散模型
+ story.py         # 故事生成
+ requirements.txt
 ```
 
 ## 运行方式

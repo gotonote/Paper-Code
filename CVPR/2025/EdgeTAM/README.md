@@ -23,10 +23,10 @@ EdgeTAM通过模型压缩和高效架构设计，实现了在边缘设备上的�
 
 ```
 EdgeTAM/
-├── models/          # 模型定义
-├── utils/           # 工具函数
-├── inference.py     # 推理脚本
-└── requirements.txt # 依赖
+ models/          # 模型定义
+ utils/           # 工具函数
+ inference.py     # 推理脚本
+ requirements.txt # 依赖
 ```
 
 ## 运行方式

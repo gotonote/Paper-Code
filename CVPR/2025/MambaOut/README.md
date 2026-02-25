@@ -33,11 +33,11 @@ MambaOut探索了Mamba架构在视觉任务中的必要性：
 
 ```
 MambaOut/
-├── train.py              # 训练代码
-├── validate.py           # 验证代码
-├── utils.py              # 工具函数
-├── requirements.txt
-└── README.md
+ train.py              # 训练代码
+ validate.py           # 验证代码
+ utils.py              # 工具函数
+ requirements.txt
+ README.md
 ```
 
 ## 快速开始

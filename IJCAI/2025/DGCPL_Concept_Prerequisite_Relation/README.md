@@ -35,17 +35,17 @@ DGCPL是一种新型的深度学习模型，用于预测概念先修关系：
 
 ```
 DGCPL/
-├── data/                    # 数据目录
-│   └── MOOC/              # MOOC数据集
-├── load_data/              # 数据加载
-├── utils/                  # 工具函数
-│   ├── HyperGNN.py        # 超图神经网络
-│   ├── DirectedGCN.py    # 有向图卷积网络
-│   ├── SiameseNet.py     # 孪生网络
-│   ├── model.py          # 模型定义
-│   ├── train.py          # 训练脚本
-│   └── test.py           # 测试脚本
-└── README.md              # 英文原版README
+ data/                    # 数据目录
+    MOOC/              # MOOC数据集
+ load_data/              # 数据加载
+ utils/                  # 工具函数
+    HyperGNN.py        # 超图神经网络
+    DirectedGCN.py    # 有向图卷积网络
+    SiameseNet.py     # 孪生网络
+    model.py          # 模型定义
+    train.py          # 训练脚本
+    test.py           # 测试脚本
+ README.md              # 英文原版README
 ```
 
 ## 快速开始

@@ -29,10 +29,10 @@
 
 ```
 code/
-├── src/              # 源代码
-├── configs/          # 配置文件
-├── scripts/          # 脚本文件
-└── README.md         # 原始 README
+ src/              # 源代码
+ configs/          # 配置文件
+ scripts/          # 脚本文件
+ README.md         # 原始 README
 ```
 
 ## 使用方法

@@ -32,9 +32,9 @@ The data for STA can be downloaded [here](https://huggingface.co/datasets/mengru
 
 ```
 steer-target-atoms
-└── data
-    ├── mmlu
-    └── safety
+ data
+     mmlu
+     safety
 ```
 
 ## 💻 Run

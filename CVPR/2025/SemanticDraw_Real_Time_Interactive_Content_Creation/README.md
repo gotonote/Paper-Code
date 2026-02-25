@@ -31,12 +31,12 @@ SemanticDraw的核心技术包括：
 
 ```
 SemanticDraw_Real_Time_Interactive_Content_Creation/
-├── app.py                      # Gradio应用
-├── inference.py                # 推理代码
-├── models/                     # 模型定义
-├── utils/                      # 工具函数
-├── requirements.txt            # 依赖
-└── ...
+ app.py                      # Gradio应用
+ inference.py                # 推理代码
+ models/                     # 模型定义
+ utils/                      # 工具函数
+ requirements.txt            # 依赖
+ ...
 ```
 
 ## 运行方式

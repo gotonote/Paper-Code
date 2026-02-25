@@ -29,10 +29,10 @@
 
 ```
 code/
-├── datasets/        # 数据集
-├── evaluation/     # 评估代码
-├── models/         # 模型接口
-└── README.md       # 原始 README
+ datasets/        # 数据集
+ evaluation/     # 评估代码
+ models/         # 模型接口
+ README.md       # 原始 README
 ```
 
 ## 使用方法

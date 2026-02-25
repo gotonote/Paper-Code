@@ -25,10 +25,10 @@
 
 ```
 Multimodal_LLM/
-├── llava.py           # 主模型
-├── trainer.py         # 训练器
-├── requirements.txt
-└── README.md
+ llava.py           # 主模型
+ trainer.py         # 训练器
+ requirements.txt
+ README.md
 ```
 
 ## 关键代码讲解

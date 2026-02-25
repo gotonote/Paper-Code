@@ -36,11 +36,11 @@ FoundationStereo的核心创新包括：
 
 ```
 FoundationStereo_Zero_Shot_Stereo_Matching/
-├── models.py              # 核心模型代码
-├── Utils.py               # 工具函数
-├── environment.yml        # 环境配置
-├── requirements.txt
-└── README.md
+ models.py              # 核心模型代码
+ Utils.py               # 工具函数
+ environment.yml        # 环境配置
+ requirements.txt
+ README.md
 ```
 
 ## 运行方式

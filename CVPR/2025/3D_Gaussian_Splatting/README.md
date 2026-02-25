@@ -25,10 +25,10 @@
 
 ```
 3D_Gaussian_Splatting/
-├── gaussian_model.py   # 高斯模型（核心类定义）
-├── trainer.py          # 训练器
-├── requirements.txt    # 依赖
-└── README.md
+ gaussian_model.py   # 高斯模型（核心类定义）
+ trainer.py          # 训练器
+ requirements.txt    # 依赖
+ README.md
 ```
 
 ## 关键代码讲解

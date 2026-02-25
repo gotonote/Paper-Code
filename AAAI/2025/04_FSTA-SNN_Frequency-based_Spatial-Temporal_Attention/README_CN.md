@@ -26,13 +26,13 @@
 
 ```
 04_FSTA-SNN_Frequency-based_Spatial-Temporal_Attention/
-├── config/           # 配置文件
-├── data/             # 数据集
-├── dvs_utils/        # DVS 事件相机工具
-├── linklink/         # 脉冲神经网络工具库
-├── models/           # 模型定义
-├── train.py          # 训练脚本
-└── README.md         # 英文原版说明
+ config/           # 配置文件
+ data/             # 数据集
+ dvs_utils/        # DVS 事件相机工具
+ linklink/         # 脉冲神经网络工具库
+ models/           # 模型定义
+ train.py          # 训练脚本
+ README.md         # 英文原版说明
 ```
 
 ## 使用方法

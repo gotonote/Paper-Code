@@ -33,12 +33,12 @@
 
 ```
 Balancing_Diversity_and_Risk_in_LLM_Sampling/
-├── collect_prefix_tree.py     # 构建上下文保留前缀树
-├── sort_and_visualize_prefix_tree.py  # 排序和可视化
-├── estimate_optimal_truncation.py     # 估计最优截断
-├── compute_truncation.py      # 计算截断
-├── evaluate_recall_and_stability.py    # 评估召回率和稳定性
-└── README.md                  # 英文原版README
+ collect_prefix_tree.py     # 构建上下文保留前缀树
+ sort_and_visualize_prefix_tree.py  # 排序和可视化
+ estimate_optimal_truncation.py     # 估计最优截断
+ compute_truncation.py      # 计算截断
+ evaluate_recall_and_stability.py    # 评估召回率和稳定性
+ README.md                  # 英文原版README
 ```
 
 ## 快速开始

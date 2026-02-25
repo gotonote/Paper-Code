@@ -110,40 +110,40 @@ Examples of 10,000 sampled crystals and molecules are also available on HuggingF
 ## Project Structure
 
 ```
-├── configs                             <- Hydra configs
-│   ├── autoencoder_module                <- VAE LitModule configs
-│   ├── callbacks                         <- Callbacks configs
-│   ├── data                              <- Data configs
-│   ├── encoder                           <- VAE encoder configs
-│   ├── decoder                           <- VAE decoder configs
-│   ├── diffusion_module                  <- Latent diffusion/DiT LitModule configs
-│   ├── extras                            <- Extra utilities configs
-│   ├── hydra                             <- Hydra configs
-│   ├── logger                            <- Logger configs (for W&B)
-│   ├── paths                             <- Project paths configs
-│   ├── trainer                           <- Trainer configs
-│   │
-│   ├── train_autoencoder.yaml          <- Main config for training VAEs
-│   ├── train_diffusion.yaml            <- Main config for training DiTs
-│   ├── eval_autoencoder.yaml           <- Main config for evaluating trained VAEs
-│   └── eval_diffusion.yaml             <- Main config for sampling from/evaluating trained DiTs
+ configs                             <- Hydra configs
+    autoencoder_module                <- VAE LitModule configs
+    callbacks                         <- Callbacks configs
+    data                              <- Data configs
+    encoder                           <- VAE encoder configs
+    decoder                           <- VAE decoder configs
+    diffusion_module                  <- Latent diffusion/DiT LitModule configs
+    extras                            <- Extra utilities configs
+    hydra                             <- Hydra configs
+    logger                            <- Logger configs (for W&B)
+    paths                             <- Project paths configs
+    trainer                           <- Trainer configs
+   
+    train_autoencoder.yaml          <- Main config for training VAEs
+    train_diffusion.yaml            <- Main config for training DiTs
+    eval_autoencoder.yaml           <- Main config for evaluating trained VAEs
+    eval_diffusion.yaml             <- Main config for sampling from/evaluating trained DiTs
 |
-├── src                       <- Source code (same directory structure as configs)
+ src                       <- Source code (same directory structure as configs)
 |
-├── slurm                     <- Example slurm scripts for launching training runs and experiments
-│
-├── data                      <- Datasets directory
-│
-├── .gitignore                <- List of files ignored by git
-├── .pre-commit-config.yaml   <- Configuration of pre-commit hooks for code formatting
-├── .project-root             <- File for inferring the position of project root directory
-├── CODE_OF_CONDUCT.md        <- Code of conduct to define community standards
-├── CONTRIBUTING              <- Guidelines for repository contributions
-├── LICENCE                   <- CC-BY-NC license file
-├── pyproject.toml            <- Configuration options for testing and linting
-├── requirements.txt          <- File for installing python dependencies
+ slurm                     <- Example slurm scripts for launching training runs and experiments
+
+ data                      <- Datasets directory
+
+ .gitignore                <- List of files ignored by git
+ .pre-commit-config.yaml   <- Configuration of pre-commit hooks for code formatting
+ .project-root             <- File for inferring the position of project root directory
+ CODE_OF_CONDUCT.md        <- Code of conduct to define community standards
+ CONTRIBUTING              <- Guidelines for repository contributions
+ LICENCE                   <- CC-BY-NC license file
+ pyproject.toml            <- Configuration options for testing and linting
+ requirements.txt          <- File for installing python dependencies
 |
-└── README.md
+ README.md
 ```
 
 ## Citation

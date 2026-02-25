@@ -25,10 +25,10 @@
 
 ```
 Video_Gen/
-├── model.py          # 模型定义（包含VAE、扩散、注意力）
-├── trainer.py        # 训练器
-├── requirements.txt
-└── README.md
+ model.py          # 模型定义（包含VAE、扩散、注意力）
+ trainer.py        # 训练器
+ requirements.txt
+ README.md
 ```
 
 ## 关键代码讲解

@@ -17,8 +17,8 @@
 
 ```
 HSMR/
-├── skeleton_model.py  # 骨架模型
-├── biomechanics.py    # 生物力学计算
-├── requirements.txt
-└── README.md
+ skeleton_model.py  # 骨架模型
+ biomechanics.py    # 生物力学计算
+ requirements.txt
+ README.md
 ```

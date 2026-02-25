@@ -33,11 +33,11 @@ DepthCrafter的核心技术：
 
 ```
 DepthCrafter_Long_Depth_Sequences/
-├── models.py            # 核心模型代码
-├── app.py               # Gradio应用
-├── run.py               # 推理脚本
-├── requirements.txt
-└── README.md
+ models.py            # 核心模型代码
+ app.py               # Gradio应用
+ run.py               # 推理脚本
+ requirements.txt
+ README.md
 ```
 
 ## 运行方式

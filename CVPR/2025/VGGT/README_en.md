@@ -200,11 +200,11 @@ The reconstruction result (camera parameters and 3D points) will be automaticall
 
 ``` 
 SCENE_DIR/
-├── images/
-└── sparse/
-    ├── cameras.bin
-    ├── images.bin
-    └── points3D.bin
+ images/
+ sparse/
+     cameras.bin
+     images.bin
+     points3D.bin
 ```
 
 ## Integration with Gaussian Splatting
@@ -251,16 +251,16 @@ Our work builds upon a series of previous research projects. If you're intereste
     <td align="left">
       <a href="https://github.com/jytime/Deep-SfM-Revisited">Deep SfM Revisited</a>
     </td>
-    <td style="white-space: pre;">──┐</td>
+    <td style="white-space: pre;"></td>
     <td></td>
   </tr>
   <tr>
     <td align="left">
       <a href="https://github.com/facebookresearch/PoseDiffusion">PoseDiffusion</a>
     </td>
-    <td style="white-space: pre;">─────►</td>
+    <td style="white-space: pre;">►</td>
     <td>
-      <a href="https://github.com/facebookresearch/vggsfm">VGGSfM</a> ──►
+      <a href="https://github.com/facebookresearch/vggsfm">VGGSfM</a> ►
       <a href="https://github.com/facebookresearch/vggt">VGGT</a>
     </td>
   </tr>
@@ -268,7 +268,7 @@ Our work builds upon a series of previous research projects. If you're intereste
     <td align="left">
       <a href="https://github.com/facebookresearch/co-tracker">CoTracker</a>
     </td>
-    <td style="white-space: pre;">──┘</td>
+    <td style="white-space: pre;"></td>
     <td></td>
   </tr>
 </table>

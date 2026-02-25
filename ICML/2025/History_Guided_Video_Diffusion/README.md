@@ -31,9 +31,9 @@ This is the official repository for the paper [**_History-Guided Video Diffusion
 ## 🤗 Try generating videos with DFoT in your browser!
 
 We provide an [_interactive_ demo](https://huggingface.co/spaces/kiwhansong/diffusion-forcing-transformer) on HuggingFace Spaces, where you can generate videos with DFoT and History Guidance. On the RealEstate10K dataset, you can generate:
-- Any Number of Images → Short 2-second Video
-- Single Image → Long 10-second Video
-- Single Image → Extremely Long Video (like the teaser above!)
+- Any Number of Images  Short 2-second Video
+- Single Image  Long 10-second Video
+- Single Image  Extremely Long Video (like the teaser above!)
 
 Please check it out and have fun generating videos with DFoT!
 

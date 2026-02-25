@@ -36,12 +36,12 @@ MambaVision是一种混合Mamba-Transformer视觉骨干网络，核心创新在�
 
 ```
 MambaVision/
-├── mambavision/              # 核心模型代码
-├── object_detection/         # 目标检测
-├── semantic_segmentation/   # 语义分割
-├── setup.py                  # 安装脚本
-├── Dockerfile               # Docker配置
-└── README_en.md            # 英文原版README
+ mambavision/              # 核心模型代码
+ object_detection/         # 目标检测
+ semantic_segmentation/   # 语义分割
+ setup.py                  # 安装脚本
+ Dockerfile               # Docker配置
+ README_en.md            # 英文原版README
 ```
 
 ## 快速开始

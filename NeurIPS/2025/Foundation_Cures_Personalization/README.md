@@ -29,10 +29,10 @@
 
 ```
 code/
-├── models/          # 模型架构
-├── training/        # 训练代码
-├── inference/      # 推理代码
-└── README.md       # 原始 README
+ models/          # 模型架构
+ training/        # 训练代码
+ inference/      # 推理代码
+ README.md       # 原始 README
 ```
 
 ## 使用方法

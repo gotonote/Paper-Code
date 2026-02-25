@@ -37,10 +37,10 @@ ORMind旨在通过以下方式改进基于LLM的优化：
 
 ```
 ORMind/
-├── run_exp.py              # NL4Opt数据集实验
-├── run_exp_ComplexOR.py    # ComplexOR数据集实验
-├── requirements.txt        # 依赖
-└── README.md              # 英文原版README
+ run_exp.py              # NL4Opt数据集实验
+ run_exp_ComplexOR.py    # ComplexOR数据集实验
+ requirements.txt        # 依赖
+ README.md              # 英文原版README
 ```
 
 ## 快速开始

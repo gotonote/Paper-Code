@@ -50,19 +50,19 @@ PyTorch and timm 0.6.11 (`pip install timm==0.6.11`).
 Data preparation: ImageNet with the following folder structure, you can extract ImageNet by this [script](https://gist.github.com/BIGBALLON/8a71d225eff18d88e469e6ea9b39cef4).
 
 ```
-│imagenet/
-├──train/
-│  ├── n01440764
-│  │   ├── n01440764_10026.JPEG
-│  │   ├── n01440764_10027.JPEG
-│  │   ├── ......
-│  ├── ......
-├──val/
-│  ├── n01440764
-│  │   ├── ILSVRC2012_val_00000293.JPEG
-│  │   ├── ILSVRC2012_val_00002138.JPEG
-│  │   ├── ......
-│  ├── ......
+imagenet/
+train/
+   n01440764
+      n01440764_10026.JPEG
+      n01440764_10027.JPEG
+      ......
+   ......
+val/
+   n01440764
+      ILSVRC2012_val_00000293.JPEG
+      ILSVRC2012_val_00002138.JPEG
+      ......
+   ......
 ```
 
 

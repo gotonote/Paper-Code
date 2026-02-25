@@ -23,11 +23,11 @@
 
 ```
 EchoMimicV2/
-├── audio_encoder.py   # 音频编码器
-├── pose_generator.py  # 姿态生成器
-├── renderer.py        # 图像渲染器
-├── requirements.txt  # 依赖
-└── README.md
+ audio_encoder.py   # 音频编码器
+ pose_generator.py  # 姿态生成器
+ renderer.py        # 图像渲染器
+ requirements.txt  # 依赖
+ README.md
 ```
 
 ## 关键代码讲解

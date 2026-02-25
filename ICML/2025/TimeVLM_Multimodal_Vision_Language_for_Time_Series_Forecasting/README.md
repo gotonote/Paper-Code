@@ -69,35 +69,35 @@ bash ./scripts/TimeVLM_transfer.sh
 
 ```
 Time-VLM/
-├── README.md                 # Project documentation
-├── requirements.txt          # Python dependencies
-├── run.py                    # Main entry point for training and testing
-├── dataset/                  # Dataset directory
-│   ├── ETT/                  # ETT datasets
-│   ├── Weather/              # Weather dataset
-│   ├── Electricity/          # Electricity dataset
-│   ├── Traffic/              # Traffic dataset
-│   └── ...
-├── scripts/                  # Training and evaluation scripts
-│   ├── TimeVLM_long_1.0p.sh # Long-term forecasting (full-shot, 100% data)
-│   ├── TimeVLM_long_0.1p.sh # Long-term forecasting (few-shot, 10% data)
-│   ├── TimeVLM_short.sh     # Short-term forecasting
-│   ├── TimeVLM_transfer.sh  # Zero-shot transfer learning
-│   └── ...
-├── src/                      # Source code
-│   ├── TimeVLM/             # Time-VLM model implementation
-│   │   ├── model.py         # Main model architecture
-│   │   ├── vlm_custom.py    # Custom VLM implementations
-│   │   ├── vlm_manager.py   # VLM manager for different types
-│   │   └── ...
-│   ├── utils/                # Utility functions
-│   ├── models/               # Model implementations
-│   ├── layers/               # Custom layers
-│   └── ...
-├── exp/                      # Experiment configurations
-├── logs/                     # Training logs
-├── ts-images/               # Generated time series images
-└── ...
+ README.md                 # Project documentation
+ requirements.txt          # Python dependencies
+ run.py                    # Main entry point for training and testing
+ dataset/                  # Dataset directory
+    ETT/                  # ETT datasets
+    Weather/              # Weather dataset
+    Electricity/          # Electricity dataset
+    Traffic/              # Traffic dataset
+    ...
+ scripts/                  # Training and evaluation scripts
+    TimeVLM_long_1.0p.sh # Long-term forecasting (full-shot, 100% data)
+    TimeVLM_long_0.1p.sh # Long-term forecasting (few-shot, 10% data)
+    TimeVLM_short.sh     # Short-term forecasting
+    TimeVLM_transfer.sh  # Zero-shot transfer learning
+    ...
+ src/                      # Source code
+    TimeVLM/             # Time-VLM model implementation
+       model.py         # Main model architecture
+       vlm_custom.py    # Custom VLM implementations
+       vlm_manager.py   # VLM manager for different types
+       ...
+    utils/                # Utility functions
+    models/               # Model implementations
+    layers/               # Custom layers
+    ...
+ exp/                      # Experiment configurations
+ logs/                     # Training logs
+ ts-images/               # Generated time series images
+ ...
 ```
 
 ## ⚙️ Configuration & Tuning

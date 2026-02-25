@@ -13,14 +13,14 @@ Please follow the repo. of [UnAV](https://github.com/ttgeng233/UnAV) to download
 After downloading the dataset, unpack the files under `./data`. The folder structure should look like this:
 ```
 This folder
-│   README.md
-│   ...  
-└───data/
-│    └───unav100/
-│    	 └───annotations
-│    	 └───av_features  
-└───libs
-│   ...
+   README.md
+   ...  
+data/
+    unav100/
+    	 annotations
+    	 av_features  
+libs
+   ...
 ```
 
 ## Training 

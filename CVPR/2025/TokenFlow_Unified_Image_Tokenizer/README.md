@@ -30,10 +30,10 @@ TokenFlow的核心技术：
 
 ```
 TokenFlow_Unified_Image_Tokenizer/
-├── model.py              # 核心分词器代码
-├── requirements.txt
-├── GETTING_STARTED.md
-└── README.md
+ model.py              # 核心分词器代码
+ requirements.txt
+ GETTING_STARTED.md
+ README.md
 ```
 
 ## 运行方式

@@ -36,11 +36,11 @@ FoundationStereo是一个用于立体深度估计的基础模型，核心创新�
 
 ```
 FoundationStereo/
-├── models.py              # 核心模型代码
-├── Utils.py               # 工具函数
-├── environment.yml        # 环境配置
-├── requirements.txt
-└── README.md
+ models.py              # 核心模型代码
+ Utils.py               # 工具函数
+ environment.yml        # 环境配置
+ requirements.txt
+ README.md
 ```
 
 ## 快速开始

@@ -178,12 +178,12 @@ unzip ADEChallengeData2016.zip
 
 ```
 data/ade20k/
-├── images/
-│   ├── training/
-│   └── validation/
-└── annotations/
-    ├── training/
-    └── validation/
+ images/
+    training/
+    validation/
+ annotations/
+     training/
+     validation/
 ```
 
 3. **Configure your MMSEGMENTATION config**

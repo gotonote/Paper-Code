@@ -24,21 +24,21 @@ After downloading models and datasets, organize your files as follows:
 
 <pre>
 ITFormer-ICML25/
-├── dataset/
-│   └── datasets/                    # Place EngineMT-QA dataset files here
-│       ├── time_series_data.h5
-│       ├── train_qa.jsonl
-│       └── test_qa.jsonl
-├── LLM/                             # Base Qwen2.5-Instruct models
-├── checkpoints/
-│   └── ITFormer-0.5B/               # ITFormer model checkpoints
-├── scripts/                         # One-click automation scripts
-│   ├── run_pretrain.sh
-│   ├── run_sft.sh
-│   └── run_inference.sh
-├── accelerate_config.yaml           # Configuration for distributed execution
-└── yaml/
-    └── infer.yaml                   # Inference configuration
+ dataset/
+    datasets/                    # Place EngineMT-QA dataset files here
+        time_series_data.h5
+        train_qa.jsonl
+        test_qa.jsonl
+ LLM/                             # Base Qwen2.5-Instruct models
+ checkpoints/
+    ITFormer-0.5B/               # ITFormer model checkpoints
+ scripts/                         # One-click automation scripts
+    run_pretrain.sh
+    run_sft.sh
+    run_inference.sh
+ accelerate_config.yaml           # Configuration for distributed execution
+ yaml/
+     infer.yaml                   # Inference configuration
 </pre>
 
 ### 2. Run Inference

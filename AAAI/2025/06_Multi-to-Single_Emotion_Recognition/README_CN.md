@@ -26,8 +26,8 @@
 
 ```
 06_Multi-to-Single_Emotion_Recognition/
-├── M2S_demo_code/   # 演示代码
-└── README.md        # 英文原版说明
+ M2S_demo_code/   # 演示代码
+ README.md        # 英文原版说明
 ```
 
 ## 使用方法

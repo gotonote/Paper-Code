@@ -36,11 +36,11 @@ FastVLM是一种高效的视觉语言模型，核心创新在于FastViTHD（Fast
 
 ```
 FastVLM/
-├── predict.py              # 推理脚本
-├── trainer.py              # 训练器
-├── get_models.sh           # 模型下载脚本
-├── requirements.txt
-└── README.md
+ predict.py              # 推理脚本
+ trainer.py              # 训练器
+ get_models.sh           # 模型下载脚本
+ requirements.txt
+ README.md
 ```
 
 ## 快速开始

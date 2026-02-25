@@ -17,8 +17,8 @@
 
 ```
 Visual_Reasoning/
-├── model.py           # 模型定义
-├── trainer.py         # 训练器
-├── requirements.txt
-└── README.md
+ model.py           # 模型定义
+ trainer.py         # 训练器
+ requirements.txt
+ README.md
 ```

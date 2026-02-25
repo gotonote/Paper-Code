@@ -32,16 +32,16 @@ OneDiffusion采用统一的Diffusion Transformer架构：
 
 ```
 OneDiffusion_Universal_Diffusion/
-├── onediffusion/               # 核心代码
-│   ├── diffusion/              # 扩散模型
-│   │   └── pipelines/          # 推理管道
-│   │       └── onediffusion.py
-│   └── ...
-├── inference.py                # 推理脚本
-├── gradio_demo.py              # Gradio演示
-├── PROMPT_GUIDE.md             # 提示词指南
-├── requirements.txt             # 依赖
-└── assets/                     # 示例资源
+ onediffusion/               # 核心代码
+    diffusion/              # 扩散模型
+       pipelines/          # 推理管道
+           onediffusion.py
+    ...
+ inference.py                # 推理脚本
+ gradio_demo.py              # Gradio演示
+ PROMPT_GUIDE.md             # 提示词指南
+ requirements.txt             # 依赖
+ assets/                     # 示例资源
 ```
 
 ## 运行方式

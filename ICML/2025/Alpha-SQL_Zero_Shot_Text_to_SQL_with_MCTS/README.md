@@ -35,17 +35,17 @@ Alpha-SQL是一种新型的零样本Text-to-SQL方法，核心创新在于：
 
 ```
 AlphaSQL/
-├── data/                    # 数据集目录
-│   └── bird/               # BIRD数据集
-├── config/                  # 配置文件
-├── script/                  # 运行脚本
-├── alphasql/               # 核心代码
-│   ├── runner/            # 运行器
-│   ├── templates/          # 提示模板
-│   ├── database/           # 数据库处理
-│   ├── llm_call/          # LLM调用
-│   └── algorithm/         # MCTS算法
-└── README.md              # 英文原版README
+ data/                    # 数据集目录
+    bird/               # BIRD数据集
+ config/                  # 配置文件
+ script/                  # 运行脚本
+ alphasql/               # 核心代码
+    runner/            # 运行器
+    templates/          # 提示模板
+    database/           # 数据库处理
+    llm_call/          # LLM调用
+    algorithm/         # MCTS算法
+ README.md              # 英文原版README
 ```
 
 ## 快速开始

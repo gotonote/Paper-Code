@@ -35,10 +35,10 @@ M4Bench针对复杂关联场景分析的需求，提出以下创新：
 
 ```
 M4Bench/
-├── assets/                  # 图像资源
-├── main.py                # 主评估脚本
-├── requirements.txt       # 依赖
-└── README.md             # 英文原版README
+ assets/                  # 图像资源
+ main.py                # 主评估脚本
+ requirements.txt       # 依赖
+ README.md             # 英文原版README
 ```
 
 ## 快速开始

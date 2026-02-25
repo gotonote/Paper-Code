@@ -34,12 +34,12 @@ MMAudio是一种视频到音频合成模型，核心创新在于多模态联合�
 
 ```
 MMAudio/
-├── demo.py               # 演示脚本
-├── train.py              # 训练脚本
-├── gradio_demo.py        # Gradio Demo
-├── eval_onsets.py        # 评估脚本
-├── requirements.txt
-└── README.md
+ demo.py               # 演示脚本
+ train.py              # 训练脚本
+ gradio_demo.py        # Gradio Demo
+ eval_onsets.py        # 评估脚本
+ requirements.txt
+ README.md
 ```
 
 ## 快速开始

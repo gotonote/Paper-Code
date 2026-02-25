@@ -29,10 +29,10 @@
 
 ```
 code/
-├── pruner/         # 剪枝器
-├── models/         # 模型适配
-├── evaluation/     # 评估代码
-└── README.md       # 原始 README
+ pruner/         # 剪枝器
+ models/         # 模型适配
+ evaluation/     # 评估代码
+ README.md       # 原始 README
 ```
 
 ## 使用方法

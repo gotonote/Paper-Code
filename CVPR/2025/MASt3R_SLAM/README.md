@@ -23,11 +23,11 @@
 
 ```
 MASt3R_SLAM/
-├── mast3r_model.py   # MASt3R 模型
-├── tracker.py        # 相机跟踪
-├── mapper.py         # 稠密建图
-├── requirements.txt  # 依赖
-└── README.md
+ mast3r_model.py   # MASt3R 模型
+ tracker.py        # 相机跟踪
+ mapper.py         # 稠密建图
+ requirements.txt  # 依赖
+ README.md
 ```
 
 ## 关键代码讲解

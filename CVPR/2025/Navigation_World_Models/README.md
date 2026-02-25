@@ -33,15 +33,15 @@ NWM的核心技术包括：
 
 ```
 Navigation_World_Models/
-├── models.py                   # 模型定义
-├── diffusion/                  # 扩散模块
-├── datasets.py                 # 数据集加载
-├── train.py                    # 训练脚本
-├── config/                     # 配置文件
-│   └── nwm_cdit_xl.yaml       # CDiT-XL配置
-├── environment.yml             # 环境配置
-├── interactive_model.ipynb     # 交互式Notebook
-└── README.md
+ models.py                   # 模型定义
+ diffusion/                  # 扩散模块
+ datasets.py                 # 数据集加载
+ train.py                    # 训练脚本
+ config/                     # 配置文件
+    nwm_cdit_xl.yaml       # CDiT-XL配置
+ environment.yml             # 环境配置
+ interactive_model.ipynb     # 交互式Notebook
+ README.md
 ```
 
 ## 运行方式

@@ -27,11 +27,11 @@
 
 ```
 01_Dense_Audio-Visual_Event_Localization/
-├── configs/          # 配置文件
-├── libs/            # 工具库
-├── train.py         # 训练脚本
-├── eval.py          # 评估脚本
-└── README.md        # 英文原版说明
+ configs/          # 配置文件
+ libs/            # 工具库
+ train.py         # 训练脚本
+ eval.py          # 评估脚本
+ README.md        # 英文原版说明
 ```
 
 ## 使用方法

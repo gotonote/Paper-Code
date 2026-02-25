@@ -66,12 +66,12 @@ Directly use the example images in `./examples`, or you can prepare your own pai
 3. Finally, the data will be organized like:
 ```
 person_a+hair_a/
-├── 0_person_a0.jpg
-├── 0_person_a1.jpg
-├── 0_person_a2.jpg
-├── 1_hair_a0.jpg
-├── 1_hair_a1.jpg
-└── 1_hair_a2.jpg
+ 0_person_a0.jpg
+ 0_person_a1.jpg
+ 0_person_a2.jpg
+ 1_hair_a0.jpg
+ 1_hair_a1.jpg
+ 1_hair_a2.jpg
 ```
 
 ### Training

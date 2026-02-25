@@ -27,11 +27,11 @@
 
 ```
 05_BASRec_Balanced_Relevance_and_Diversity/
-├── src/
-│   ├── GRU4Rec/      # GRU4Rec 实现
-│   ├── SASRec/      # SASRec 实现
-│   └── output/      # 日志文件
-└── README.md        # 英文原版说明
+ src/
+    GRU4Rec/      # GRU4Rec 实现
+    SASRec/      # SASRec 实现
+    output/      # 日志文件
+ README.md        # 英文原版说明
 ```
 
 ## 使用方法

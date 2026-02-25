@@ -34,11 +34,11 @@ HarmoniCa是一种新型的基于训练的扩散Transformer加速框架，核心
 
 ```
 HarmoniCa/
-├── img/                    # 图像资源
-├── train_router.py        # 训练路由模型
-├── sample.py              # 推理采样
-├── download.py            # 下载预训练模型
-└── README.md              # 英文原版README
+ img/                    # 图像资源
+ train_router.py        # 训练路由模型
+ sample.py              # 推理采样
+ download.py            # 下载预训练模型
+ README.md              # 英文原版README
 ```
 
 ## 快速开始

@@ -35,13 +35,13 @@ VGGT (Visual Geometry Grounded Transformer) 是一种基于Transformer的纯视�
 
 ```
 VGGT/
-├── models.py              # 核心模型代码
-├── visual_util.py         # 可视化工具
-├── demo_gradio.py         # Gradio Demo
-├── demo_colmap.py         # COLMAP格式导出
-├── demo_viser.py          # Viser可视化
-├── requirements.txt
-└── README.md
+ models.py              # 核心模型代码
+ visual_util.py         # 可视化工具
+ demo_gradio.py         # Gradio Demo
+ demo_colmap.py         # COLMAP格式导出
+ demo_viser.py          # Viser可视化
+ requirements.txt
+ README.md
 ```
 
 ## 快速开始

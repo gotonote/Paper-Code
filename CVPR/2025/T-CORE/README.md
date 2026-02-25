@@ -23,10 +23,10 @@ T-CORE通过创新的时间对应建模，利用未来信息来增强视频自�
 
 ```
 T-CORE/
-├── models/          # 模型架构
-├── datasets/        # 数据集处理
-├── train.py         # 训练脚本
-└── requirements.txt # 依赖
+ models/          # 模型架构
+ datasets/        # 数据集处理
+ train.py         # 训练脚本
+ requirements.txt # 依赖
 ```
 
 ## 运行方式

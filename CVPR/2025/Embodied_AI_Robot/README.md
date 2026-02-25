@@ -25,8 +25,8 @@
 
 ```
 Embodied_AI_Robot/
-├── policy.py          # 策略网络
-├── trainer.py         # 训练器
-├── requirements.txt
-└── README.md
+ policy.py          # 策略网络
+ trainer.py         # 训练器
+ requirements.txt
+ README.md
 ```
